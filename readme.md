@@ -8,4 +8,4 @@ E-mail para contato: gildevan.araujo@outlook.com.br
 
 ## Preview
 
-[.](/_git/1.png)
+![.](/_git/1.png)

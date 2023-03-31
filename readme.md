@@ -7,5 +7,6 @@ Projeto criado atráves do canal [Manual do Dev](https://www.youtube.com/c/Manua
 E-mail para contato: gildevan.araujo@outlook.com.br
 
 ## Preview
+[🔶 LINK POKEDEX 🔶](https://pokedex-gil.netlify.app/)
 
 ![.](/_git/1.png)
